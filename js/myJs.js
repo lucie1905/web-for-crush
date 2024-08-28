@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://facebook.com/hieu.9304";
+            window.location = "https://www.facebook.com/Hieu.9304";
           },
         });
       }
